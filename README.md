@@ -8,6 +8,7 @@ A beginner-friendly course for making a 2D game in Godot, one playable milestone
 | --- | --- | --- |
 | 1 | A character you can move around a room with solid walls | [Walk Around Home](chapter_1/LESSON.md) |
 | 2 | A square-board automatic duel with health, results, and restart | [An Automatic Duel](chapter_2/LESSON.md) |
+| 3 | Ally placement, moving teams, range-based attacks, and reset to a chosen layout | [Placement And Moving Teams](chapter_3/LESSON.md) |
 
 This repository contains lessons and complete code references, not a ready-to-run Godot project. You create the project and scenes yourself in the editor. Solutions are intentionally separated into each chapter's `cheat_sheet/SOLUTION.md`.
 
@@ -41,6 +42,6 @@ When asked to guide a learner from this repository, use the [ChatGPT Tutor Proto
 
 ## Publication Scope
 
-Only the first two completed milestones are published here. New chapters are added at completed-milestone boundaries, not during every development session. A walkable room and a repeatable duel are the current results, not a finished farming game.
+The first three completed milestones are documented here. New chapters are added at completed-milestone boundaries, not during every development session. A walkable room and a separate repeatable team battle with placement are the current results, not a finished farming game. Chapter 3 adds no feeding, growth, tower progression, or saving; later planned work is unchanged.
 
 See the [validation notes](OVERVIEW.md#validation) for the Godot version and the distinction between automated checks and hands-on testing. No external art or font files are included.

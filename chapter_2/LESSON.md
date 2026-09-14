@@ -389,4 +389,4 @@ Paste this request with the relevant materials at the milestone boundary:
 
 Attach `board.gd`, `battle_unit.gd`, and `battle.gd`, or paste each with its filename. Include a scene-tree screenshot, relevant Inspector values, and the three signal connections; scripts alone do not show editor connections. If something failed, include the exact error text and what you did immediately before it.
 
-[Course overview](../OVERVIEW.md) | [Previous chapter](../chapter_1/LESSON.md) | [Complete solution](cheat_sheet/SOLUTION.md)
+[Course overview](../OVERVIEW.md) | [Previous chapter](../chapter_1/LESSON.md) | [Next: Placement And Moving Teams](../chapter_3/LESSON.md) | [Complete solution](cheat_sheet/SOLUTION.md)
